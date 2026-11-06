@@ -1,3 +1,8 @@
+> **foxnaim** · AI-секретарь на телефоне
+>
+> Готовая основа под клиентский проект. Стек: Python.
+> Лицензия AGPL-3.0 сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 [![GitHub stars](https://img.shields.io/github/stars/kirklandsig/AIReceptionist?style=flat-square)](https://github.com/kirklandsig/AIReceptionist/stargazers)
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue?style=flat-square)](LICENSE)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue?style=flat-square)](https://www.python.org/downloads/)
